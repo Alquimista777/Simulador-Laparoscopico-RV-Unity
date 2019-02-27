@@ -1,15 +1,25 @@
 fileFormatVersion: 2
 guid: bb6f9c4ca84007d47ae612f07c301821
 ModelImporter:
-  serializedVersion: 22
+  serializedVersion: 23
   fileIDToRecycleName:
     100000: //RootNode
     100002: default
+    100004: default_MeshPart0
+    100006: default_MeshPart1
     400000: //RootNode
     400002: default
+    400004: default_MeshPart0
+    400006: default_MeshPart1
     2300000: default
+    2300002: default_MeshPart0
+    2300004: default_MeshPart1
     3300000: default
+    3300002: default_MeshPart0
+    3300004: default_MeshPart1
     4300000: default
+    4300002: default_MeshPart0
+    4300004: default_MeshPart1
     2186277476908879412: ImportLogs
   externalObjects:
   - first:
@@ -67,6 +77,8 @@ ModelImporter:
     secondaryUVHardAngle: 88
     secondaryUVPackMargin: 4
     useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
   tangentSpace:
     normalSmoothAngle: 60
     normalImportMode: 0
